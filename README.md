@@ -1,0 +1,2 @@
+Welcome to the C++ Course: Beginner to Intermediate GitHub repository! This course is designed to help you build a strong foundation in C++ programming and advance your skills to an intermediate level. Whether you're new to programming or have prior experience, this repository provides a structured path to mastering essential C++ concepts.
+This course covers core C++ topics through well-organized modules, practical examples, and hands-on exercises. Each module progressively builds your understanding of C++ concepts, syntax, and best practices.
